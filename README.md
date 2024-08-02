@@ -12,4 +12,4 @@
 - Cleaned and preprocessed data using Excel to ensure accuracy and completeness for analysis.
 - Utilized Power BI to create interactive visualizations and dashboards that depicted sales forecasts and trends.
 - Collaborated with marketing teams to provide insights that informed strategic decisions and campaign planning.
-  [^1 ]: Thank you 😄
+  
